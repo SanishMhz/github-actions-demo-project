@@ -14,7 +14,6 @@ app.use(
     credentials: true,
     optionSuccessStatus: 200,
   })
-);
 
 // setup body parser.
 
